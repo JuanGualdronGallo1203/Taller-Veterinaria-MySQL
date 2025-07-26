@@ -36,7 +36,7 @@ precio INT
 
 CREATE TABLE Visitas (
 ID INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
-fecha DATETIME,
+fecha DATE,
 ID_Servicios INT NOT NULL,
 ID_Mascotas INT NOT NULL,
 ID_Veterinario INT NOT NULL,
