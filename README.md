@@ -81,8 +81,12 @@ El archivo `consultas.sql` contiene al menos **21 consultas** SQL que demuestran
 
 ---
 
- imagen del diagrama <img src="./img/Imagen de WhatsApp 2025-07-27 a las 20.18.09_7be6120c" alt="imagen" />
- video explicativo: <video src="https://drive.google.com/file/d/1OUKtHARn9ZpnDyUTJwANUVoKsKZxLKGf/view?usp=drivesdk">
+imagen del diagrama:  
+<img src="./img/Imagen de WhatsApp 2025-07-27 a las 20.18.09_7be6120c.jpg" alt="imagen" />
+
+video explicativo:  
+[🔗 Ver video en Google Drive](https://drive.google.com/file/d/1OUKtHARn9ZpnDyUTJwANUVoKsKZxLKGf/view?usp=drivesdk )
+
 
 ## 🧑‍💻 Autor
 
